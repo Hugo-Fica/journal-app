@@ -12,8 +12,8 @@ const firebaseConfig = {
     projectId: "react-journalapp-149fa",
     storageBucket: "react-journalapp-149fa.appspot.com",
     messagingSenderId: "292535769172",
-    appId: "1:292535769172:web:acacbc537b4cb4327135c1"
-};
+    appId: "1:292535769172:web:5a9eb6bb62495d2c7135c1"
+  };
 
 // Initialize Firebase
 export const FirebaseApp = initializeApp(firebaseConfig);
