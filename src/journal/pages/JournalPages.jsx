@@ -10,7 +10,7 @@ export const JournalPages = () => {
     <JournalLayout>
       <NothingSelectedView />
       {/* <NoteView /> */}
-      <IconButton
+      <IconButton 
         size='large'
         sx={{
           color: 'white',
